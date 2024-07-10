@@ -1,0 +1,13 @@
+{
+    "name": "kiss/kiss",
+    "description": "Kiss - Keep it simple and stupid",
+    "autoload": {
+        "psr-4": {
+            "Kiss\\": "classes/"
+        }
+    },
+    "require": {
+        "smarty/smarty": "^4.3",
+        "monolog/monolog": "2.9.2"
+    }
+}
